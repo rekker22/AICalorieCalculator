@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "aicaloriecalculator.client", "aicaloriecalculator.client\aicaloriecalculator.client.esproj", "{D715B9D7-8907-06CB-8B62-EA1A2BEE55BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AICalorieCalculator.Server", "AICalorieCalculator.Server\AICalorieCalculator.Server.csproj", "{6A27B307-184E-4102-95B9-74662AFF1B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D715B9D7-8907-06CB-8B62-EA1A2BEE55BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D715B9D7-8907-06CB-8B62-EA1A2BEE55BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D715B9D7-8907-06CB-8B62-EA1A2BEE55BA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D715B9D7-8907-06CB-8B62-EA1A2BEE55BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D715B9D7-8907-06CB-8B62-EA1A2BEE55BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D715B9D7-8907-06CB-8B62-EA1A2BEE55BA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6A27B307-184E-4102-95B9-74662AFF1B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A27B307-184E-4102-95B9-74662AFF1B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A27B307-184E-4102-95B9-74662AFF1B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A27B307-184E-4102-95B9-74662AFF1B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF977BE-6A03-46FD-8E8A-153CA91C4F4F}
+	EndGlobalSection
+EndGlobal

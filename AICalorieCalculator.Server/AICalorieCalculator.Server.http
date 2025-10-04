@@ -1,0 +1,6 @@
+@AICalorieCalculator.Server_HostAddress = http://localhost:5217
+
+GET {{AICalorieCalculator.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

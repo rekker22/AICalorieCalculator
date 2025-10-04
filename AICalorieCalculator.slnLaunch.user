@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AICalorieCalculator.Server\\AICalorieCalculator.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "aicaloriecalculator.client\\aicaloriecalculator.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

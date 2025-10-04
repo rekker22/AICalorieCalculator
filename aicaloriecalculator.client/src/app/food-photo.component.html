@@ -1,0 +1,10 @@
+<div class="container mt-5">
+  <div class="row justify-content-center align-items-center">
+    <div class="col-md-6 d-flex flex-column align-items-center">
+      <app-food-upload (imageChanged)="onImageChanged($event)"></app-food-upload>
+    </div>
+    <div class="col-md-6">
+      <app-food-result [result]="result"></app-food-result>
+    </div>
+  </div>
+</div>

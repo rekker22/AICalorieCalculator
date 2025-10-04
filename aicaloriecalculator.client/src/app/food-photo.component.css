@@ -1,0 +1,9 @@
+.container {
+  min-height: 60vh;
+}
+.img-fluid {
+  border: 2px solid #6f42c1;
+}
+.bg-white {
+  min-height: 300px;
+}
